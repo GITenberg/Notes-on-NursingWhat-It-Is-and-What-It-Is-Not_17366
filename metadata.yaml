@@ -15,6 +15,8 @@ description: 'Notes on nursing : what it is and what it is not -- Notes on hospi
   : being two papers read before the national association for the promotion of social
   science at Liverpool in October 1858 with evidence given to the Royal Commissioners
   on the state of the army in 1857.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17366#Notes-on-NursingWhat-It-Is-and-What-It-Is-Not
 gutenberg_bookshelf: Medicine
 gutenberg_issued: '2005-12-21'
 gutenberg_type: Text
