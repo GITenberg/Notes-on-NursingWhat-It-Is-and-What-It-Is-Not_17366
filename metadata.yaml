@@ -1,0 +1,31 @@
+_repo: Notes-on-NursingWhat-It-Is-and-What-It-Is-Not_17366
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nightingale, Florence
+    birthdate: 1820
+    deathdate: 1920
+    gutenberg_agent_id: '4370'
+    url: http://www.gutenberg.org/2009/agents/4370
+    wikipedia: http://en.wikipedia.org/wiki/Florence_Nightingale
+description: 'Notes on nursing : what it is and what it is not -- Notes on hospitals
+  : being two papers read before the national association for the promotion of social
+  science at Liverpool in October 1858 with evidence given to the Royal Commissioners
+  on the state of the army in 1857.'
+gutenberg_bookshelf: Medicine
+gutenberg_issued: '2005-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17366'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nursing'
+- !lcc 'RT'
+title: 'Notes on Nursing: What It Is, and What It Is Not'
+url: http://www.gutenberg.org/ebooks/17366
